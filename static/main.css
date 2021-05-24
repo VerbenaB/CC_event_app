@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient( #f2b874, #f18b27);
+    border-radius: 20px;
+    max-width: 600px;
+    margin: auto;
+}      
+
+nav {
+    color: teal;
+    list-style: none;
+
+}
+li {
+        color: rgb(0, 115, 255);
+        margin: 4px;
+        padding: 10px;
+      }
+
